@@ -35,6 +35,6 @@ With the virtual environment activated, install the required packages using the 
 
 ```shell
 pip install -r requirements.txt
-
-Now, with the dependencies installed, you're ready to configure the application settings and process incidents.
 ```
+Now, with the dependencies installed, you're ready to configure the application settings and process incidents.
+
